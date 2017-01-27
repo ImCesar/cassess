@@ -20,7 +20,7 @@ After cloning the project start a new Maven project and select the pom.xml file 
 
 After loading the package and dependencies run the terminal command:
 
- mvn package
+    mvn package
 
 You can then either run the CassessApplication.java file to run the server or you can use the terminal command "mvn spring-boot:run"
 
